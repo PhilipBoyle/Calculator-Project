@@ -1,0 +1,1 @@
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\PB Simple Calculator.Windows.csproj;neutral

@@ -1,0 +1,13 @@
+[Files]
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.exe" "PB Simple Calculator.WindowsPhone.exe"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\Logo.scale-240.png" "Assets\Logo.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\SmallLogo.scale-240.png" "Assets\SmallLogo.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\SplashScreen.scale-240.png" "Assets\SplashScreen.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\Square71x71Logo.scale-240.png" "Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\StoreLogo.scale-240.png" "Assets\StoreLogo.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\WideLogo.scale-240.png" "Assets\WideLogo.scale-240.png"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.xr.xml" "PB Simple Calculator.WindowsPhone.xr.xml"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\App.xbf" "App.xbf"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\resources.pri" "resources.pri"

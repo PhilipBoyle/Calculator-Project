@@ -1,0 +1,32 @@
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\App.xbf
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\MainPage.xbf
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.xr.xml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.exe
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\resources.pri
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.build.appxrecipe
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\App.g.i.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\App.g.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\MainPage.g.i.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\MainPage.g.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\App.xaml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\MainPage.xaml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\App.xbf
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\MainPage.xbf
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\PB Simple Calculator.WindowsPhone.exe
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\PB Simple Calculator.WindowsPhone.pdb
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\priconfig.xml
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\priconfig.xml.intermediate
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\layout.resfiles
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\layout.resfiles.intermediate
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\resources.resfiles
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\resources.resfiles.intermediate
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\pri.resfiles
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\pri.resfiles.intermediate
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\qualifiers.txt
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\ProjectArchitectures.txt

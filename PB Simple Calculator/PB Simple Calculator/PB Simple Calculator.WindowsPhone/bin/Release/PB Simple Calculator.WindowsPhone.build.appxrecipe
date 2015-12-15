@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-M5470SC</Machine>
+    <WindowsUser>Philip</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2ab3b1c6-7844-4f3a-8f95-b6524f8f31ce</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.exe">
+      <PackagePath>PB Simple Calculator.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\PB Simple Calculator.WindowsPhone.xr.xml">
+      <PackagePath>PB Simple Calculator.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Philip\Documents\Visual Studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

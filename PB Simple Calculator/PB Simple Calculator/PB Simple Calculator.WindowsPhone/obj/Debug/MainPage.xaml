@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="PB_Simple_Calculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PB_Simple_Calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <!-- Philip Boyle - G00325728@gmit.ie-->
+
+    <Grid>
+        <Grid x:Name="LayoutRoot" Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+
+            <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+                <TextBlock Text="Philip Boyle G00325728"  Margin="12,0"/>
+                <TextBlock Text="Simple Calculator" Margin="9,-7,0,0" FontSize="40"/>
+            </StackPanel>
+
+            <!--ContentPanel - place additional content here-->
+            <Grid x:Name="ContentPanel" Margin="12,90,12,10" Grid.RowSpan="2">
+                <Button x:ConnectionId='1' x:Name="one" Content="1"                      HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Height="90" Width="83"/>
+                <Button x:ConnectionId='2' x:Name="three" Content="3"                      HorizontalAlignment="Left" Margin="257,209,0,0" VerticalAlignment="Top" Height="90" Width="84"/>
+                <Button x:ConnectionId='3' x:Name="two" Content="2"                      HorizontalAlignment="Left" Margin="136,209,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='4' x:Name="four" Content="4"                      HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='5' x:Name="six" Content="6"                      HorizontalAlignment="Left" Margin="257,295,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='6' x:Name="five" Content="5"                      HorizontalAlignment="Left" Margin="136,295,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='7' x:Name="nine" Content="9"                      HorizontalAlignment="Left" Margin="257,377,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='8' x:Name="eight" Content="8"                      HorizontalAlignment="Left" Margin="136,377,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='9' x:Name="seven" Content="7"                      HorizontalAlignment="Left" Margin="10,377,0,0" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='10' x:Name="clear" Content="C"                       HorizontalAlignment="Left" Margin="257,122,0,0" VerticalAlignment="Top" Height="90" Width="57" Background="#FFBA2121"/>
+                <Button x:ConnectionId='11' x:Name="zero" Content="0"                      HorizontalAlignment="Left" Margin="136,453,0,-3" VerticalAlignment="Top" Height="90" Width="57"/>
+                <Button x:ConnectionId='12' x:Name="equals" Content="="                       HorizontalAlignment="Left" Margin="257,453,0,-3" VerticalAlignment="Top" Height="90" Width="57" Background="#FF63BC34"/>
+                <Button x:ConnectionId='13' x:Name="divide" Content="/"                    HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Height="27" Width="57" Background="#FF1D68AE"/>
+                <Button x:ConnectionId='14' x:Name="subtract" Content="-"                    HorizontalAlignment="Left" Margin="136,122,0,0" VerticalAlignment="Top" Height="29" Width="57" Background="#FF1D68AE"/>
+                <Button x:ConnectionId='15' x:Name="multiply" Content="x"                    HorizontalAlignment="Left" Margin="136,165,0,0" VerticalAlignment="Top" Height="35" Width="96" Background="#FF1D68AE"/>
+                <Button x:ConnectionId='16' x:Name="add" Content="+"                    HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Height="14" Width="8" Background="#FF1D68AE"/>
+                <Button x:ConnectionId='17' x:Name="decimalPoint" Content="."                      HorizontalAlignment="Left" Margin="10,453,0,-3" VerticalAlignment="Top" Height="90" Width="57"/>
+                <TextBox x:ConnectionId='18' x:Name="Display" HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="113" Width="366"                                   Background="#FFA2FDFF"/>
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Page>
+

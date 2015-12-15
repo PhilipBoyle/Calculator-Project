@@ -1,0 +1,32 @@
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\App.xbf
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\MainPage.xbf
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\PB Simple Calculator.Windows.xr.xml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\PB Simple Calculator.Windows.exe
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\PB Simple Calculator.Windows.pdb
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\resources.pri
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\AppxManifest.xml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\bin\Debug\PB Simple Calculator.Windows.build.appxrecipe
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\App.g.i.cs
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\App.g.cs
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\MainPage.g.cs
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\App.xaml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\MainPage.xaml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\App.xbf
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\MainPage.xbf
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\PB Simple Calculator.Windows.exe
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\PB Simple Calculator.Windows.pdb
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\priconfig.xml
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\layout.resfiles
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\resources.resfiles
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\pri.resfiles
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\qualifiers.txt
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\philip\documents\visual studio 2015\Projects\PB Simple Calculator\PB Simple Calculator\PB Simple Calculator.Windows\obj\Debug\ProjectArchitectures.txt
